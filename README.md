@@ -12,6 +12,7 @@ https://github.com/kenziyuliu/MS-G3D
 
 **3. Pretrained_models**
 
+https://drive.google.com/drive/folders/1qjz1tRHnDAIrcbEqkpoOS8b72pvLXyTp
 
 
 
