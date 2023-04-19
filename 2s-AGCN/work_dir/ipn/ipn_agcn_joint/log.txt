@@ -1,0 +1,6 @@
+[ Sat May 14 17:17:57 2022 ] Load weights from ./pre_train/ipn_agcn_joint.pt.
+[ Sat May 14 17:17:57 2022 ] using warm up, epoch: 0
+Mean test loss of 69 batches: 0.6673240776079289
+[ Sat May 14 17:18:30 2022 ]    Top1: 82.16%
+[ Sat May 14 17:18:30 2022 ]    Top5: 96.80%
+[ Sat May 14 17:18:30 2022 ] Done.

@@ -1,0 +1,2 @@
+Joint: ipn_bone-55.pt
+Bone: ipn_joint-49.pt

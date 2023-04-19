@@ -1,0 +1,40 @@
+work_dir: /home/namcuongtp/MS-G3D/2s-AGCN/work_dir/ipn/agcn_bone
+model_saved_name: /home/namcuongtp/MS-G3D/2s-AGCN/ipn/ipn_bone
+
+# feeder
+feeder: feeders.feeder.Feeder
+train_feeder_args:
+  random_choose: True
+  random_move: True
+  window_size: 150
+  data_path: /home/namcuongtp/MS-G3D/2s-AGCN/data/ipn/train_data_bone.npy
+  label_path: /home/namcuongtp/MS-G3D/2s-AGCN/data/ipn/train_label.pkl
+  debug: False
+
+test_feeder_args:
+  data_path: /home/namcuongtp/MS-G3D/2s-AGCN/data/ipn/val_data_bone.npy
+  label_path: /home/namcuongtp/MS-G3D/2s-AGCN/data/ipn/val_label.pkl
+
+# model
+model: model.agcn.Model
+model_args:
+  num_class: 13
+  num_person: 1
+  num_point: 21
+  graph: graph.ipn.Graph
+  graph_args:
+    labeling_mode: 'spatial'
+
+#optim
+weight_decay: 0.0001
+base_lr: 0.1
+step: [45, 55]
+
+# training
+device: [0, 1, 2, 3]
+batch_size: 32
+test_batch_size: 64
+num_epoch: 65
+nesterov: True
+
+
