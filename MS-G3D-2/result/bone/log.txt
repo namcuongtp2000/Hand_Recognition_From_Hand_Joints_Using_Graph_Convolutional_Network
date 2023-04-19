@@ -1,0 +1,15 @@
+[ Sat Jul  9 20:30:09 2022 ] Model total number of params: 3093523
+[ Sat Jul  9 20:30:09 2022 ] Loading weights from ./pretrained_models/bone/weights-33-1947.pt
+[ Sat Jul  9 20:30:09 2022 ] Model:   model.msg3d.Model
+[ Sat Jul  9 20:30:09 2022 ] Weights: ./pretrained_models/bone/weights-33-1947.pt
+[ Sat Jul  9 20:30:10 2022 ] Eval epoch: 1
+[ Sat Jul  9 20:33:16 2022 ] Model total number of params: 3093523
+[ Sat Jul  9 20:33:16 2022 ] Loading weights from ./pretrained_models/bone/weights-33-1947.pt
+[ Sat Jul  9 20:33:16 2022 ] Model:   model.msg3d.Model
+[ Sat Jul  9 20:33:16 2022 ] Weights: ./pretrained_models/bone/weights-33-1947.pt
+[ Sat Jul  9 20:33:16 2022 ] Eval epoch: 1
+[ Sat Jul  9 20:33:35 2022 ] 	Mean test loss of 43 batches: 0.8105175044647482.
+[ Sat Jul  9 20:33:35 2022 ] 	Top 1: 79.76%
+[ Sat Jul  9 20:33:35 2022 ] 	Top 5: 96.45%
+[ Sat Jul  9 20:33:35 2022 ] Done.
+
