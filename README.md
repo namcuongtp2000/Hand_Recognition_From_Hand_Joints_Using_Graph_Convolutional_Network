@@ -1,10 +1,10 @@
 # Hand_Recognition_From_Hand_Joints_Using_Graph_Convolutional_Network
 
-#**1. Dataset**
+**1. Dataset**
 
 This project using IPN Dataset: https://gibranbenitez.github.io/IPN_Hand/
 
-#**2. Model**
+**2. Model**
 
 Convert skeleton input information of whole body into hand joints information to become input for MS-G3D model.
 
