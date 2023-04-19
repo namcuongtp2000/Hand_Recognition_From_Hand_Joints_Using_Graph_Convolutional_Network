@@ -18,7 +18,7 @@ Installation: pip install mediapipe
 
 Replace skeleton input information of whole body into hand joints information and format to fit the input of MS-G3D model.
 
-Reference model architecture:
+Reference model architectures:
 
 https://github.com/kenziyuliu/MS-G3D
 
