@@ -4,9 +4,9 @@
 
 This project using IPN Dataset: https://gibranbenitez.github.io/IPN_Hand/
 
-**2. Model**
+**2. Model Architecture**
 
-Convert skeleton input information of whole body into hand joints information to become input for MS-G3D model.
+Replace skeleton input information of whole body into hand joints information to become input for MS-G3D model.
 
 https://github.com/kenziyuliu/MS-G3D
 
