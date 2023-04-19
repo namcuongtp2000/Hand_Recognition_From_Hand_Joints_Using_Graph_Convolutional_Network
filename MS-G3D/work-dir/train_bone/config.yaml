@@ -1,0 +1,53 @@
+amp_opt_level: 1
+assume_yes: false
+base_lr: 0.05
+batch_size: 32
+checkpoint: ./work-dir/train_bone/checkpoints/checkpoint-54-fwbz16-5184.pt
+config: ./config/ipn/train_bone.yaml
+debug: false
+device:
+- 0
+eval_interval: 1
+eval_start: 1
+feeder: feeders.feeder.Feeder
+forward_batch_size: 16
+half: true
+ignore_weights: []
+log_interval: 100
+model: model.msg3d.Model
+model_args:
+  graph: graph.ipn.AdjMatrixGraph
+  num_class: 13
+  num_g3d_scales: 8
+  num_gcn_scales: 8
+  num_person: 1
+  num_point: 21
+model_saved_name: ./runs/train_bone
+nesterov: true
+num_epoch: 65
+num_worker: 12
+optimizer: SGD
+optimizer_states: null
+phase: train
+print_log: true
+save_interval: 1
+save_score: false
+seed: 105
+show_topk:
+- 1
+- 5
+start_epoch: 54
+step:
+- 45
+- 55
+test_batch_size: 32
+test_feeder_args:
+  data_path: ./data/ipn/val_data_bone.npy
+  label_path: ./data/ipn/val_label.pkl
+train_feeder_args:
+  data_path: ./data/ipn/train_data_bone.npy
+  debug: false
+  label_path: ./data/ipn/train_label.pkl
+weight_decay: 0.0003
+weights: ./work-dir/train_bone/weights/weights-54-5184.pt
+work_dir: ./work-dir/train_bone

@@ -1,0 +1,10 @@
+[ Sat May 14 08:04:46 2022 ] Model total number of params: 3093523
+[ Sat May 14 08:04:46 2022 ] Loading weights from ./pretrained_models/ipn_joint.pt
+[ Sat May 14 08:04:46 2022 ] Model:   model.msg3d.Model
+[ Sat May 14 08:04:46 2022 ] Weights: ./pretrained_models/ipn_joint.pt
+[ Sat May 14 08:04:46 2022 ] Eval epoch: 1
+[ Sat May 14 08:05:34 2022 ] 	Mean test loss of 69 batches: 0.7195713721516043.
+[ Sat May 14 08:05:34 2022 ] 	Top 1: 86.46%
+[ Sat May 14 08:05:34 2022 ] 	Top 5: 97.07%
+[ Sat May 14 08:05:34 2022 ] Done.
+

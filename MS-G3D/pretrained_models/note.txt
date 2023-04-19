@@ -1,0 +1,2 @@
+best accuracy train_joint : weights-51
+best accuracy train_bone : weights-61
