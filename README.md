@@ -1,6 +1,6 @@
 # Hand_Recognition_From_Hand_Joints_Using_Graph_Convolutional_Network
 
-This project Flow chart:
+This project follows this below Flow chart:
 
 <img src="/img/flow chart.png" alt="Flow Chart" title="Flow Chart">
 
