@@ -1,5 +1,9 @@
 # Hand_Recognition_From_Hand_Joints_Using_Graph_Convolutional_Network
 
+This project Flow chart:
+
+<img src="/img/flow_chart.png" alt="Flow Chart" title="Flow Chart">
+
 # **1. Dataset**
 
 This project using IPN Dataset: https://gibranbenitez.github.io/IPN_Hand/
