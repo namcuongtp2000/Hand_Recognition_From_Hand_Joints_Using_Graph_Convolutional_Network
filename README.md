@@ -16,7 +16,7 @@ Replace skeleton input information of whole body into hand joints information to
 
 https://github.com/kenziyuliu/MS-G3D
 
-**4. Pretrained_models**
+**4. Pretrained models and visualize demo**
 
 https://drive.google.com/drive/folders/1qjz1tRHnDAIrcbEqkpoOS8b72pvLXyTp
 
