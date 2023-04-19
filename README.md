@@ -26,7 +26,7 @@ https://drive.google.com/drive/folders/1qjz1tRHnDAIrcbEqkpoOS8b72pvLXyTp
 
 # **5. Issues**
 
-You should modify your real local computer file path instead of my onws.
+You should modify your real local computer file paths instead of my onws.
 
 This is a test projects and it made a lot of mistakes when can't classify hand gesture labels and recognize exact some hand gestures with short duration.
 
