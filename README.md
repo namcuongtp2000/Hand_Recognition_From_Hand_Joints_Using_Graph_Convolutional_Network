@@ -20,5 +20,5 @@ https://github.com/kenziyuliu/MS-G3D
 
 https://drive.google.com/drive/folders/1qjz1tRHnDAIrcbEqkpoOS8b72pvLXyTp
 
-
+This is a test projects and it made a lot of mistakes when can't classify hand gesture labels and recognize exact some hand gestures with short duration.
 
