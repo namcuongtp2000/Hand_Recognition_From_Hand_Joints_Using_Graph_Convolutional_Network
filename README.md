@@ -2,7 +2,7 @@
 
 This project follows this below Flow chart:
 
-<img src="/img/flow chart.png" alt="Flow Chart" title="Flow Chart">
+<img src="/img/flow_chart.png" alt="Flow Chart" title="Flow Chart">
 
 # **1. Dataset**
 
