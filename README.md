@@ -30,7 +30,7 @@ You should notice that there are 2 types of pretrained models. The first one are
 
 https://drive.google.com/drive/folders/1qjz1tRHnDAIrcbEqkpoOS8b72pvLXyTp
 
-For the second training process, after getting npy and pkl files which data are formated and labeled, you can follow the the readme file from authors of MS-G3D models, train your own dataset and take the top accuracy weight or checkpoint models to predict or recognize actions or gestures in test process. 
+For the second training process, after getting npy and pkl files which data are formated and labeled, you can follow the the readme file from authors of {MODELS} to train your own dataset and take the top accuracy weight or checkpoint models to predict of recognize actions or gestures in test process.
 
 # **5. Issues**
 
